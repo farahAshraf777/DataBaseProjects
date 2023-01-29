@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Form9.Designer",
+      "appliesTo": "BANK2/Form9.Designer.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Form7.Designer",
+      "appliesTo": "BANK2/Form7.Designer.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Form5",
+      "appliesTo": "BANK2/Form5.cs",
+      "type": "launch"
+    }
+  ]
+}
